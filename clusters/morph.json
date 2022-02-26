@@ -4,12 +4,10 @@
             "name": "Potency",
             "children": [{
 
-
                     "name": "CODEINE",
                     "children": [
                         { "size": 0.3 },
                         { "size": 0 }
-
                     ]
                 },
                 {
